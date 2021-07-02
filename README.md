@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sowmyanarayananp
+- 🌱 I’m currently learning Neural Network. I am building the it from scratch using java. I am an SCJP, hence I thought I would use that knowledge to create my own Neural Network Library. So far it has been fun. Will make the repo public once it take good shape. C&C are welcome :) 
+- 📫 Add me to your network on Linkedin https://www.linkedin.com/in/sowmyanarayananp. Will be happy to chat about interesting stuffs
+- 📫 I also illustrate. Follow my journey there https://www.instagram.com/chowmi_doodles/
